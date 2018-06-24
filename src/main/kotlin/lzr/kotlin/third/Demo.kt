@@ -1,7 +1,6 @@
 package lzr.kotlin.third
 
-import java.text.BreakIterator
-import java.util.concurrent.ExecutionException
+
 
 fun main(args: Array<String>) {
     while (true) {

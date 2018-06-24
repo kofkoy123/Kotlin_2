@@ -6,6 +6,9 @@ plugins {
 group 'lzr.kotlin'
 version '1.0-SNAPSHOT'
 
+apply plugin:'application'
+mainClassName = "lzr.kotlin.third.Demokt"
+
 sourceCompatibility = 1.8
 
 repositories {
